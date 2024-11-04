@@ -68,13 +68,13 @@ public class PositionType {
         this.value = value;
     }
 
-    public static void main(String[] args) {
-    PositionType position1 = new PositionType("Manager");
-    PositionType position2 = new PositionType("Director");
-    PositionType position3 = new PositionType("Manager");
-
-    // Test equals method
-        System.out.println(position1.equals(position1));
-        System.out.println(position1.equals(position3));
-}
+//    public static void main(String[] args) {
+//    PositionType position1 = new PositionType("Manager");
+//    PositionType position2 = new PositionType("Director");
+//    PositionType position3 = new PositionType("Manager");
+//
+//    // Test equals method
+//        System.out.println(position1.equals(position1));
+//        System.out.println(position1.equals(position3));
+//}
 }
